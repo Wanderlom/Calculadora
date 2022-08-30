@@ -1,0 +1,17 @@
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.AssemblyReference.cache
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.Form1.resources
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.GenerateResource.cache
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.AssemblyInfoInputs.cache
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.AssemblyInfo.cs
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.exe
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.deps.json
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.runtimeconfig.json
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.dll
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\bin\Debug\net6.0-windows\Aula01.pdb
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.dll
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\refint\Aula01.dll
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.pdb
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\Aula01.genruntimeconfig.cache
+C:\Users\logon\Documents\Aula01\Aula01\Aula01\obj\Debug\net6.0-windows\ref\Aula01.dll
